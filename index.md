@@ -7,7 +7,7 @@
 
 **2012-2016**: BA in Cognitive Science, The University of California at Berkeley. *Upper Division Major GPA: 3.8*
 
-## **Skills**
+### **Skills**
 **Languages**: *Fluent*: Java, C, Python. *Conversational*: JavaScript, HTML/CSS, Swift.
 
 **Notable classes**: Introduction to Internet Architecture, Operating Systems and Systems Programing, Efficient Algorithms and Intractable Problems, Introduction to Machine Learning, Introduction to Artificial Intelligence, Data Structures, Machine Architecture.
