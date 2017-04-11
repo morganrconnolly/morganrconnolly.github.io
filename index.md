@@ -16,7 +16,7 @@
 
 ### **Industry**
 
-**Summer 2016**: Full-stack Web Development Intern with [*Breakout Mentors*]  
+**Summer 2016**: Full-stack Web Development Intern with *Breakout Mentors*  
 - **Project**: Customer Portal -- A website for Breakout Mentors' clients to schedule and confirm mentoring sessions, and view and pay their Breakout Mentors' bill.
 - **Project Responsibilities**:
 Built front-end in ReactJS,  Implemented OAuth login for FaceBook and Google users,
