@@ -1,4 +1,6 @@
-# Morgan R. Connolly
+---
+title: # Morgan R. Connolly
+---
 
 ### **Education**
 **2012-2016**: BA in Computer Science, The University of California at Berkeley *Upper Division Major GPA: 3.6*
